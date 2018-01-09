@@ -1,0 +1,29 @@
+body {
+    background-color: grey;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.box  {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid red;
+}
+
+.outer {
+    position: relative;
+    top: 25%;
+    left: 25%;
+    width: 50%;
+    height: 50%;
+    background-color: blue;
+}
+
+.inner {
+    position: relative;
+    top: 15px;
+    left: 0px;
+    width: 50%;
+    height: 50%;
+    background-color: red;
+}
