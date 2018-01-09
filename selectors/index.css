@@ -1,0 +1,26 @@
+body {
+    background-color: coral
+}
+
+p {
+    font-family: sans-serif;
+}
+
+#one {
+color: cornflowerblue;
+}
+
+#two {
+    color: lightgreen;
+
+}
+
+#three {
+    color: paleturquoise;
+}
+
+#four {
+  color: teal  
+}
+
+.background-black
